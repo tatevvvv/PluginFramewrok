@@ -1,4 +1,6 @@
-﻿
+Hope I understood business requirement correctly, Each effect that can be applied to image represents a plugin to be added to ctalog.
+All availables effects/plugins will be register during run time and will be shown to user, User will not have access to those objects because of abtraction and encaplulation principles.
+Upon selecting an effect(s) based on that order they will be applied to image.
 
 Considering that 'Radius' is for Blur effect
 'Size' is for Resizing effect.
